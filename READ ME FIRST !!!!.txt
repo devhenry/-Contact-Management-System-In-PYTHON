@@ -1,17 +1,13 @@
 CONTACT MANAGEMENT SYSTEM - PYTHON
 
+This project is a simple, GUI-based Contact Management System coded in Python, making it an ideal resource for beginners learning application development.
 
-- THANKS TO Yugesh Verma
+The system is focused on core data management, often referred to as CRUD (Create, Read, Update, Delete) operations. Users can easily add new contacts (including first name, last name, gender, address, and contact details), view them in a clear list, and delete any entry. To update a record, a user simply double-clicks the existing entry to edit the details.
 
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
-
-
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
-
-
-***** FOR MORE PROJECTS :- https://projectworlds.in/ *****
+The application ensures permanent data storage by utilizing an external database connection file. The source code is freely available for educational purposes.
 
 
 
 
-THANK YOU FOR DOWNLOADING :) 
+
+
